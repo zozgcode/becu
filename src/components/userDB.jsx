@@ -4,7 +4,7 @@ const users = [
     name: "Robert",
     cardName: "Robert",
     username: "Robert",
-    password: "R1u2b3y4",
+    password: "R1u2b3y470g@1!0",
     amount: "50,000,000.00",
   },
 ];
