@@ -42,9 +42,6 @@ const Login = () => {
     return navigate("/");
   }
 
-  const date = new Date();
-  const hour = date.getHours();
-
   return (
     <div className="login-page">
       <div className="container">
